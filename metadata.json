@@ -1,0 +1,18 @@
+{
+  "name": "shadowkun-puppet_munki_foreman",
+  "version": "0.0.1",
+  "author": "Daniel Johnson",
+  "summary": "Wrapper module for munki class written by grahamgilbert to be used within a mixed mode environment",
+  "license": "Apache-2.0",
+  "source": "https://github.com/shadow-kun/puppet_munki_foreman",
+  "project_page": "https://github.com/shadow-kun/puppet_munki_foreman",
+  "issues_url": "https://github.com/shadow-kun/puppet_munki_foreman/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
